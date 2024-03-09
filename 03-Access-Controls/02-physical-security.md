@@ -1,0 +1,71 @@
+
+
+# Physical Controls
+- Lock, dogs, guards,
+
+## Access Controls Type:
+- Preventive
+- Detective
+- Corrective
+- Recovery
+- Deterrent
+- Compensating
+
+
+- Fences
+    - first level of the security
+- Gate (Deterernance and preventives )
+    - its just like fences
+- Bollards (Prevantives)
+    - vehical can enter certain area
+    -
+- Light (Detective and Deterrence)
+    - lights shouold be use to entire area
+    - it can be use open area if anyone pass throught light can trun on
+    - manul list can uses in jaild
+- CCTV (detective and derrance)
+    - camera connectiave
+    - infrared camera used to heat
+    - camera can be use where lights are not there
+    - we can recored the area using cameras
+    - video recoreder and network recorder
+- Locks (Prevents measure)
+    - if the door is lock you need the key to get inside
+    - keys can be shared
+    - locks can be copied
+    - you can do the bump the lock
+    - comibnation lock
+- Smart cards
+    - Can you give you access to the build
+    - they can be contact or contact less
+    - contact are needs to contact with readers
+- Tailgating/piggbacking
+    - definatly not happen for strangers
+- Mantrap
+    - where a very security require
+    - like one person at this romm
+    - bob goes man trap, close first door than open 2nd door
+    - since weight doen;t; match the room will not open
+    - some have presure sensors
+- TurnStyple (preventative and deterrance)
+    - one one person can go through at time
+    - we can see in metrosl
+    - subway
+    - somewhere ticketing
+    - there are some lower or some higher
+- Contraband checks (detective and deterrance, and preantive)
+    - ususaly we see in airport
+    - people can bring some things which suppose to be not to bring
+- Motion sensers (deterrance)
+    - if someone enter the build motion detectio detect if someone enter in the building
+    - if window open someone enter it will detect and alert
+- Walls, floor, ceiling
+    -
+- Guards (Detective, deterrance, prevantives)
+    - check the ids cards
+    - virutal guards like to check the bio-metrics data
+    - train them right, and give them right tools
+    - in some cases we use the dogs
+    - its liability issues
+- Restricsed work area
+    - some came for work in our data center
